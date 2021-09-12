@@ -20,10 +20,8 @@
                 <li><a href="https://www.l34x.ml"><i class="fas fa-globe"></i></a></li>
                 <li><a href=""></a></li>
             </ul>
-            <div class="name">
-                <h1>ameziane younes</h1>
+                <h1>ameziane <span>younes</span></h1>
                 <h5>visit my site for more www.l34x.ml</h5>
-            </div>
         </nav>
     </header>
     <div class="container">
@@ -60,6 +58,17 @@
                 </div>
             </div>            
         </div>
+    </div>
+    <div class="container">
+        <div class="info info-box">
+            <h1></h1>
+            <p>
+                Il nome provvisorio di questa concept estrema è Lotus Evil Vision GT Concept e gli sketch portano la firma del designer Antonio Paglia. L’auto si ispira alle vetture di Formula Uno e ha un design radicale, proprio come l’Aston Martin Valkyrie e la Mercedes-AMG One, giusto per citarne un paio.
+
+                Vista frontalmente, la Evil Vision GT Concept mette in mostra prese d’aria enormi: queste servono a succhiare l’aria e portarla ai radiatori. Sempre frontalmente sono presenti piccoli gruppi ottici e un piccolissimo bagagliaio, il quale probabilmente può ospitare al massimo un marsupio, a voler essere ottimisti.
+            </p>
+        </div>
+        <div class="picture info-box"></div>
     </div>
 </body>
 </html>
